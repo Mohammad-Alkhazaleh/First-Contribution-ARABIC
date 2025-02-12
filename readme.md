@@ -2331,13 +2331,7 @@
                     </td>
                     <!--// LINKED IN //-->
                    
-                   <!-- GITHUB -->
-                    <td>
-                        <a href="https://github.com/Mohammad-Alkhazaleh">
-                            <img src="./images/github-logo.png" width="30">
-                        </a>
-                    </td>
-                    <!--// GITHUB //-->
+                   
                     
                     <!-- GITHUB -->
                     <td>
